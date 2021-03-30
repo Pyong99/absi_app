@@ -308,7 +308,7 @@ class _MyAppState extends State<MyApp> {
                             )))
                       ],
                     ),
-                    SizedBox(height: 35),
+                    SizedBox(height: 20),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                       children: [
@@ -328,7 +328,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                       ],
                     ),
-                    SizedBox(height: 35),
+                    SizedBox(height: 20),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -396,7 +396,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                       ],
                     ),
-                    SizedBox(height: 35),
+                    SizedBox(height: 25),
                     Row(children: [
                       Container(
                           width: 330,
@@ -416,7 +416,6 @@ class _MyAppState extends State<MyApp> {
                                     )),
                               ]))),
                     ]),
-                    SizedBox(height: 40),
                   ],
                 ))),
       ),
